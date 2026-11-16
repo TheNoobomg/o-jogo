@@ -1,0 +1,27 @@
+body {
+    background-color: #000000;
+}
+
+.titulo {
+    text-align: center;
+    font-family: "Pusab";
+    color: #ffffff;
+    margin: 0px;
+}
+
+.subtitulo {
+    text-align: center;
+    font-family: "Pusab";
+    color: #ffffff;
+}
+
+.botao {
+    font-family: "Pusab";
+    background-color: #ffffff;
+    color: #000000;
+    padding: 20px 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
